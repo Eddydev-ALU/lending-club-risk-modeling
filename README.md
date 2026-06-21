@@ -8,7 +8,6 @@ A comparison of **classical Machine Learning (Scikit-learn)** and **Deep Learnin
 | File | Description |
 |------|-------------|
 | [`lending_club_default_risk.ipynb`](lending_club_default_risk.ipynb) | Main notebook runs top-to-bottom on Google Colab |
-| `experiment_results.csv` | Auto-generated results table (created when my notebook runs) |
 
 ## Problem
 
