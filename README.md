@@ -42,7 +42,7 @@ For a quick run on a free CPU runtime, I train on a reproducible **stratified 25
 
 ## Headline result
 
-On a stratified 250k sample (default rate 19.98%), all nine of my models cluster in a tight **ROC-AUC band of 0.71–0.725**. My best model is the **Functional-API MLP (ROC-AUC 0.725)**, with Histogram Gradient Boosting essentially tied (0.723) the close convergence of very different model families indicates the origination-time *features*, not the algorithm, are the binding constraint. Class weighting is the decisive lever: unweighted models reach ~80% accuracy but catch under 9% of defaults, while weighted models recover 65–71% of defaults at the cost of precision.
+On a stratified 250k sample (default rate 19.98%), all nine of my models cluster in a tight **ROC-AUC band of 0.71–0.724**. My best model is the **Functional-API MLP (ROC-AUC 0.724)**, with Histogram Gradient Boosting essentially tied (0.723) the close convergence of very different model families indicates the origination-time *features*, not the algorithm, are the binding constraint. Class weighting is the decisive lever: unweighted models reach ~80% accuracy but catch under 9% of defaults, while weighted models recover 65–71% of defaults at the cost of precision.
 
 ## Links
 
