@@ -48,4 +48,4 @@ On a stratified 250k sample (default rate 19.98%), all nine of my models cluster
 
 - Dataset: https://www.kaggle.com/datasets/wordsforthewise/lending-club/
 - GitHub repository: https://github.com/Eddydev-ALU/lending-club-risk-modeling
-- Demo video: 
+- Demo video: https://youtu.be/iunpZAQ3oGY
